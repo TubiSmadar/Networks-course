@@ -1,0 +1,3 @@
+source_ip: 127.0.0.1
+dest_ip: 127.0.0.1, source_port: 9999, dest_port: 53190, timestamp: 257 total_length: 21926
+cache_flag: 256, steps_flag: 256, type_flag: 0, status_code: 26882, cache_control: 21926, data: l 
