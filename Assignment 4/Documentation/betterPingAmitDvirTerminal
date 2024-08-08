@@ -1,0 +1,84 @@
+benji@Ubuntu:~/Desktop/Networks/Ex4/Ex4 Files/Final Project$ sudo ./partb 160.153.129.23
+In child
+Running watchdog...
+hello partb
+connected to Watchdog
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 1, RTT = 78.561 milliseconds
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 2, RTT = 79.927 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 3, RTT = 83.887 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 4, RTT = 78.140 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 5, RTT = 81.597 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 6, RTT = 84.550 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 7, RTT = 75.969 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 8, RTT = 80.763 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 9, RTT = 79.729 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 10, RTT = 81.025 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 11, RTT = 80.882 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 12, RTT = 79.024 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 13, RTT = 81.652 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 14, RTT = 81.844 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 15, RTT = 79.392 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 16, RTT = 79.720 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 17, RTT = 78.821 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 18, RTT = 80.225 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 19, RTT = 80.097 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 160.153.129.23, Seq = 20, RTT = 80.537 milliseconds
+^C
+benji@Ubuntu:~/Desktop/Networks/Ex4/Ex4 Files/Final Project$ 

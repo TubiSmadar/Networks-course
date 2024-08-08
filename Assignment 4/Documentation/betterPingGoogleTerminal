@@ -1,0 +1,87 @@
+benji@Ubuntu:~/Desktop/Networks/Ex4/Ex4 Files/Final Project$ sudo ./partb 8.8.8.8
+In child
+Running watchdog...
+hello partb
+connected to Watchdog
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 1, RTT = 14.504 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 2, RTT = 10.716 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 3, RTT = 14.219 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 4, RTT = 10.327 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 5, RTT = 16.524 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 6, RTT = 10.842 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 7, RTT = 14.986 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 8, RTT = 9.867 milliseconds
+Waiting for ICMP Echo Response...
+Exit timer
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 9, RTT = 10.541 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 10, RTT = 10.551 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 11, RTT = 10.033 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 12, RTT = 10.670 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 13, RTT = 10.088 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 14, RTT = 11.293 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 15, RTT = 11.281 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 16, RTT = 9.017 milliseconds
+Waiting for ICMP Echo Response...
+Exit timer
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 17, RTT = 11.542 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 18, RTT = 11.573 milliseconds
+Exit timer
+Started timer
+Waiting for ICMP Echo Response...
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 19, RTT = 9.947 milliseconds
+Exit timer
+Waiting for ICMP Echo Response...
+Started timer
+Ping returned: 35 bytes from IP = 8.8.8.8, Seq = 20, RTT = 11.404 milliseconds
+^Z
+[4]+  Stopped                 sudo ./partb 8.8.8.8
+benji@Ubuntu:~/Desktop/Networks/Ex4/Ex4 Files/Final Project$
